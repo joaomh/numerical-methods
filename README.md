@@ -9,8 +9,8 @@ with related explanations and links for further reading.
 ## Contents
 
 <!-- toc -->
-* [Numerical methods]
-    * [Introduction](/scr/01_intro/intro.ipynb)
+* [Numerical methods](https://github.com/joaomh/numerical-methods)
+    * [Introduction](https://github.com/joaomh/numerical-methods/blob/master/src/01_intro/intro.ipynb)
     * [Roots Optimization]()
     * [Curve Fitting]()
     * [Non Linear Equations]()
