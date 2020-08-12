@@ -10,7 +10,7 @@ with related explanations and links for further reading.
 
 <!-- toc -->
 * [Numerical methods]()
-    * [Introduction](./scr/01_intro/intro.ipynb)
+    *[Introduction](./scr/01_intro/intro.ipynb)
     * [Roots Optimization]()
     * [Curve Fitting]()
     * [Non Linear Equations]()
