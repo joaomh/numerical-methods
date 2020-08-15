@@ -18,3 +18,13 @@ with related explanations and links for further reading.
     * [Differential Equations]()
     * [Mesh Generation]()
     * [Computacional Fluids Dynamics]()
+
+## Resources
+- [Applied Numerical Methods with MATLAB for Engineers and Scientists](https://www.amazon.com/Applied-Numerical-Methods-Engineers-Scientists/dp/0073397962)
+- [Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib ](https://www.amazon.com/Numerical-Python-Scientific-Applications-Matplotlib/dp/1484242459/ref=sr_1_1?dchild=1&keywords=numerical+methods+python&qid=1597360845&s=books&sr=1-1)
+- [NumPy](https://numpy.org/)
+- [SciPy](https://www.scipy.org/)
+- [matplotlib](https://matplotlib.org/)
+- [Julia](https://julialang.org/)
+- [MATLAB](https://www.mathworks.com/)
+- [Octave](https://www.gnu.org/software/octave/)
