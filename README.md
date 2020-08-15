@@ -18,6 +18,7 @@ with related explanations and links for further reading.
     * [Differential Equations]()
     * [Mesh Generation]()
     * [Computacional Fluids Dynamics]()
+<<<<<<< HEAD
 
 ## Resources
 - [Applied Numerical Methods with MATLAB for Engineers and Scientists](https://www.amazon.com/Applied-Numerical-Methods-Engineers-Scientists/dp/0073397962)
@@ -28,3 +29,5 @@ with related explanations and links for further reading.
 - [Julia](https://julialang.org/)
 - [MATLAB](https://www.mathworks.com/)
 - [Octave](https://www.gnu.org/software/octave/)
+=======
+>>>>>>> master
