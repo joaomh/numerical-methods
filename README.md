@@ -1,10 +1,12 @@
 # Numerical Methods
 
 This repository contains the main numerical methods algorithms 
-implemented in Python, Julia, MATLAB and C ++.
+implemented in Python(jupyter notebook), Julia, MATLAB and C ++.
 
 Each algorithm has its own separate README ( or jupyter notebook file .ipynb)
 with related explanations and links for further reading.
+
+**Note** I'll focus on jupyter notebooks, and then after i'll implement in other programming language
 
 ## Contents
 
@@ -17,7 +19,44 @@ with related explanations and links for further reading.
     * [Non Linear Equations]()
     * [Differential Equations]()
     * [Mesh Generation]()
-    * [Computacional Fluids Dynamics]()
+    * [Computational Fluids Dynamics]()
+    * [Financial Models]()
+* [Installation](#installation)
+
+## Installation
+
+### Python
+
+I recommend install [Anaconda](https://www.anaconda.com/products/individual#download-section) environment for python. If you already have Anaconda you can skip the section above.
+
+With python installed you can install the libraries, Jupyter Notebook, NumPy, SciPy, matplotlib.
+
+``
+pip install numpy
+``
+
+``
+pip install scipy
+``
+
+``
+pip install matplotlib
+``
+
+``
+pip install jupyterlab
+``
+
+### Julia
+Download [Julia Language](https://julialang.org/downloads/) for your OS.
+
+### MATLAB or Octave
+You can use [MATLAB](https://www.mathworks.com/) or [Octave](https://www.gnu.org/software/octave/) for the .m files.
+
+**Note** if you use Octave some codes will need to be change.
+
+### C++
+You will need a C++14 compiler.
 
 ## Resources
 - [Applied Numerical Methods with MATLAB for Engineers and Scientists](https://www.amazon.com/Applied-Numerical-Methods-Engineers-Scientists/dp/0073397962)
