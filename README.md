@@ -12,9 +12,14 @@ with related explanations and links for further reading.
 
 <!-- toc -->
 * [Numerical methods](https://github.com/joaomh/numerical-methods)
-    * [Introduction](https://github.com/joaomh/numerical-methods/blob/master/src/01_intro/intro.ipynb)
-        * [Round off Python](https://github.com/joaomh/numerical-methods/blob/master/src/01_intro/round_off_error.ipynb)
-    * [Roots Optimization]()
+    * [Introduction](src/01_intro/intro.ipynb)
+        * [Round off Python](src/01_intro/round_off_error.ipynb)
+        * [Round off MATLAB](src/01_intro/round_off_error.m)
+    * [Roots Optimization](src/02_roots_optimization/roots_intro.ipynb)
+        * [Bracketing Methods](src/02_roots_optimization/01_bracketing_methods/bracketing_methods.ipynb)
+        * [Bisection Method](src/02_roots_optimization/01_bracketing_methods/bisection_method.ipynb)
+        * [False Position](src/02_roots_optimization/01_bracketing_methods/false_position.ipynb)
+        * [ Bracketing Methods Source Code](src/02_roots_optimization/01_bracketing_methods)
     * [Curve Fitting]()
     * [Non Linear Equations]()
     * [Differential Equations]()
